@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Suite">
+  <test name="Test">
+  <parameter name="topic1" value="Selenium"/>
+  <parameter name="topic2" value="JScript"/>
+  <parameter name="browser" value="chrome"/>
+  <parameter name="url" value="https://en.wikipedia.org/wiki/Main_Page"/>
+    <classes>
+      <class name="com.wikipedia.tests.WikipediaBookCreationTest"/>
+    </classes>
+  </test> <!-- Test -->
+</suite> <!-- Suite -->

@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Suite1]">
+  <parameter name="topic1" value="Selenium"/>
+  <parameter name="topic2" value="JScript"/>
+  <parameter name="browser" value="ie"/>
+  <parameter name="url" value="https://en.wikipedia.org/wiki/Main_Page"/>
+  <test name="demoCreateBook2(failed)">
+    <parameter name="browser" value="ie"/>
+    <classes>
+      <class name="com.wikipedia.tests.WikipediaBookCreationTest">
+        <methods>
+          <include name="setUp"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+          <include name="tearDown"/>
+          <include name="createTopicBook" invocation-numbers="0"/>
+        </methods>
+      </class> <!-- com.wikipedia.tests.WikipediaBookCreationTest -->
+    </classes>
+  </test> <!-- demoCreateBook2(failed) -->
+</suite> <!-- Failed suite [Suite1] -->

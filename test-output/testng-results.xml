@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="52123" started-at="2016-12-18T16:56:52Z" finished-at="2016-12-18T16:57:44Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="52123" started-at="2016-12-18T16:56:52Z" finished-at="2016-12-18T16:57:44Z">
+      <class name="com.wikipedia.tests.WikipediaBookCreationTest">
+        <test-method status="PASS" signature="setUp(java.lang.String, java.lang.String)[pri:0, instance:com.wikipedia.tests.WikipediaBookCreationTest@c038203]" name="setUp" is-config="true" duration-ms="6452" started-at="2016-12-18T10:56:52Z" finished-at="2016-12-18T10:56:58Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[chrome]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[https://en.wikipedia.org/wiki/Main_Page]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="createTopicBook(java.lang.String, java.lang.String)[pri:0, instance:com.wikipedia.tests.WikipediaBookCreationTest@c038203]" name="createTopicBook" duration-ms="44462" started-at="2016-12-18T10:56:58Z" finished-at="2016-12-18T10:57:43Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Selenium]]>
+              </value>
+            </param>
+            <param index="1">
+              <value>
+                <![CDATA[JScript]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createTopicBook -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.wikipedia.tests.WikipediaBookCreationTest@c038203]" name="tearDown" is-config="true" duration-ms="1175" started-at="2016-12-18T10:57:43Z" finished-at="2016-12-18T10:57:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.wikipedia.tests.WikipediaBookCreationTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
