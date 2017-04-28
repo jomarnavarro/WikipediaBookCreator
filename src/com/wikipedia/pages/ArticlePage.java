@@ -20,7 +20,7 @@ import com.framework.util.Properties;
 /**
  * This class contains all the elements needed to manage article page's web elements and methods
  * and methods that handle the interaction with said page.
- * @author omar
+ * @author omar navarro Tester
  *
  */
 public class ArticlePage {

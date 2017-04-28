@@ -3,22 +3,29 @@
 	<classpathentry kind="src" path="src"/>
 	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
 	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/cglib-nodep-3.2.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/client-combined-3.0.0-beta4-nodeps.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/commons-codec-1.10.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/commons-exec-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/commons-logging-1.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/gson-2.3.1.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/guava-19.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/hamcrest-core-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/hamcrest-library-1.3.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/httpclient-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/httpcore-4.4.4.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/httpmime-4.5.2.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/jna-4.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/jna-platform-4.1.0.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/junit-4.12.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/netty-3.5.7.Final.jar"/>
-	<classpathentry kind="lib" path="C:/Users/omar/workspace/WorldBankData/libs/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/selenium-java-2.53.1-srcs.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/selenium-java-2.53.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/selenium-server-standalone-2.53.1.jar"/>
+	<classpathentry kind="lib" path="/Users/jnavarro/Documents/workspace/WikipediaBookCreator/libs/testng-6.9.9.jar"/>
 	<classpathentry kind="output" path="bin"/>
 </classpath>
